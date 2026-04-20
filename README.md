@@ -1,4 +1,4 @@
-MoPhones Credit Portfolio Health & Customer Experience Review — Paraphrased Version
+MoPhones Credit Portfolio Health & Customer Experience Review 
 1) Objective
 This project assesses the performance of MoPhones’ credit portfolio and examines how repayment risk aligns with customer sentiment (NPS). The aim is to deliver leadership‑ready insights and actionable recommendations to strengthen credit policy and operational execution.
 
